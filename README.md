@@ -38,9 +38,9 @@ I also enjoy providing practical suggestions that can improve workflow and suppo
 
 ### 📂 Featured Projects
 
+- 📈 [Social Media Engagement Analysis](https://github.com/abdelrahmanabdulaty010644-sys/Social-Media-Performance-Dashbord) - Marketing analytics project uncovering the correlation between post length and cross-platform conversion metrics. Analyzed over half a billion views across Facebook, Instagram, and Twitter to optimize engagement rates and content structures.
 - 📱 [Global Mobile Phone Market Analysis](https://github.com/abdelrahmanabdulaty010644-sys/phone_Analysis) - End-to-end BI project transforming raw web data into strategic insights. Features web scraping via Power BI Web Connector, advanced data cleansing in Power Query, and interactive dashboard design tracking 5.77B global device sales, market shifts, and historical brand dominance.
 - 📊 [HR Analytics Dashboard](https://github.com/abdelrahmanabdulaty010644-sys/HR-Analsys) - Dynamic Power BI dashboard optimizing workforce management, analyzing salary structures, diversity metrics, and performance incentives for 900+ employees.
-### 📨 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mohamed-1034b7387/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.abdulaty@gmail.com)
